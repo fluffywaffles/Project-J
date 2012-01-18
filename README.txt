@@ -1,0 +1,1 @@
+This is the official git repository for our version of Bomberman. Vish.
